@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CCC 2014", "CCC 2014\CCC 2014.pyproj", "{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Question 5 C++", "Question 5 C++\Question 5 C++.vcxproj", "{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Release|x64.ActiveCfg = Release|Any CPU
+		{AAF28BBF-F0EE-4A32-B717-BD3E58FDCDFD}.Release|x86.ActiveCfg = Release|Any CPU
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Debug|x64.ActiveCfg = Debug|x64
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Debug|x64.Build.0 = Debug|x64
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Debug|x86.ActiveCfg = Debug|Win32
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Debug|x86.Build.0 = Debug|Win32
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Release|x64.ActiveCfg = Release|x64
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Release|x64.Build.0 = Release|x64
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Release|x86.ActiveCfg = Release|Win32
+		{B68B57F9-6544-48FB-9D81-A80AAAAF3E70}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
